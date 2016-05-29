@@ -1,0 +1,23 @@
+{
+  "name": "bulk-image-resizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majtom2grndctrl/bulk-image-resizer.git"
+  },
+  "author": "Dan Hiester <majtom2grndctrl@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/majtom2grndctrl/bulk-image-resizer/issues"
+  },
+  "homepage": "https://github.com/majtom2grndctrl/bulk-image-resizer#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-gm": "0.0.8"
+  }
+}
