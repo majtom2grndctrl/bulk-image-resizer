@@ -1,2 +1,7 @@
 node_modules
+/in-full
+/in-half
+/in-third
+/out
+config.js
 
